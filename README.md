@@ -7,4 +7,4 @@ Hi, I'm [Zdeněk Pašek](https://zdenekpasek.com).
 - 🌱 In the process of learning Node.js & React.js
 - ✉️ Don't hesitate to contact me by email hello@zdenekpasek.com
 
-Currently building Note Web App in #Laravel & #Vue.js check our [MVP](https://advisela.com)
+Building Note Web App which is making life easier for everyone who has a lot of work (virtual) mettings. Check our [MVP](https://advisela.com)
