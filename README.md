@@ -7,4 +7,4 @@ Hi, I'm [Zdeněk Pašek](https://zdenekpasek.com).
 - 🌱 In the process of learning Node.js & React.js
 - ✉️ Don't hesitate to contact me by email hello@zdenekpasek.com
 
-I'm Building a Note Web App that makes life easier for everyone who has a lot of work (virtual) meetings. Check our [MVP](https://advisela.com)
+I'm building a Note Web App that makes life easier for everyone who has a lot of work (virtual) meetings. Check our [MVP](https://advisela.com)
